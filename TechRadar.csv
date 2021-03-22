@@ -1,3 +1,6 @@
 name,ring,quadrant,isNew,description
-Xamarin Forms,Assess,Languages & frameworks,true,<p>A cross platofrm mobile framework. Work in C# and deploy to Android IOS and UWP.</p>
+Xamarin Forms,Trial,Languages & frameworks,true,<p>A cross platofrm mobile framework. Work in C# and deploy to Android IOS and UWP.</p>,
+Dummy Platform,Assess,Platforms,true,Dummy platform,
+Dummy Tools,Assess,Tools,true,Dummy tools,
+Dummy Techniques,Assess,Techniques,true,Dummy techniques
 
